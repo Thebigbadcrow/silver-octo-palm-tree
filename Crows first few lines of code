@@ -1,6 +1,5 @@
-#include <studio.h>
+#include <stdio.h>
 intmain(void)
 {
-printf("Hello, World says the bid bad crow to the little bread krums");
-
+printf("Hello, says the bid bad crow to the little bread crumbs");
 }
