@@ -1,0 +1,6 @@
+#include <studio.h>
+intmain(void)
+{
+printf("Hello, World says the bid bad crow to the little bread krums");
+
+}
